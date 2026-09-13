@@ -17,7 +17,7 @@
 
 ## 📸 Screenshot
 
-![Demo](capture.png)
+![Demo](Capture.png)
 
 ## 🛠️ Hardware
 

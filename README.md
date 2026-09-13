@@ -4,7 +4,7 @@
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/)
 [![Arduino](https://img.shields.io/badge/Built%20with-Arduino-green.svg)](https://www.arduino.cc/)
 
-> **[TON_SLOGAN_ICI]**  
+> **[FLOOD MAX]**  
 > Ex: "200+ fake WiFi networks that dominate the airwaves"
 
 ## ✨ Features

@@ -15,9 +15,9 @@
 - 🏆 **Appears at TOP** of WiFi lists
 - ⚡ **Optimized for ESP32-S3-Zero**
 
-## 📸 Preview
+## 📸 Screenshot
 
-[TU_METS_UN_SCREENSHOT_ICI_QUAND_TU_AURAS_TESTÉ]
+![Demo](screenshot.png)
 
 ## 🛠️ Hardware
 
